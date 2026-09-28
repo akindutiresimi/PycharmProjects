@@ -2,6 +2,7 @@ import unittest
 from importlib import invalidate_caches
 
 from multi_fuel_dispenser.MultiFuelDispenser import MultiFuelDispenser
+
 class MultiFuelDispenserTest(unittest.TestCase):
 
     def test_that_the_filling_station_have_the_petrol_and_it_price(self):
@@ -41,3 +42,5 @@ class MultiFuelDispenserTest(unittest.TestCase):
     # def test_that_when_a_client_buys_petrol_is_total_bill_is_shown_not_as_negative(self):
     #     multiFuelDispenser = MultiFuelDispenser
     #     self.assertRaises(ValueError, multiFuelDispenser.cost(()
+
+
