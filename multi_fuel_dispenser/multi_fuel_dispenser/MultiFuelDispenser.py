@@ -37,12 +37,12 @@ class MultiFuelDispenser:
         else:
             raise ValueError(f'Fuel type invalid, enter a valid type of fuel')
 
-    def price(self, price: float):
+    def calculate_fuel_price(self, price: float):
         if self.fuel_liter is None:
             self.fuel_liter = price / self.fuel_price
         return self.fuel_liter
 
-    def liter(self, liter: float):
+    def calculate_liters(self, liter: float):
         if liter < 0:
             raise ValueError(f'Fuel liter cannot be negative')
 
@@ -51,7 +51,7 @@ class MultiFuelDispenser:
             total_price = liter * self.fuel_price
             return total_price
 
-    def cost(self, liter: float, price: float):
+    def calculate_fuel_cost(self, liter: float, price: float):
         if liter < 0 or price < 0:
             raise ValueError(f'Fuel price and liter cannot be negative')
 

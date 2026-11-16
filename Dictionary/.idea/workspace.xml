@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69228b7d-7167-4210-b67e-090e0e3c397a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/Dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_fuel_dispenser_ v2/.idea/multi_fuel_dispenser_ v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_fuel_dispenser_ v2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_fuel_dispenser_ v2/multi_fuel_dispenserV2/MultiFuelDispenser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_fuel_dispenser_ v2/multi_fuel_dispenserV2/MultiFuelDispenserTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_fuel_dispenser_ v2/multi_fuel_dispenserV2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WelcomeScreen/script1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../WelcomeScreen/script1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_fuel_dispenser/multi_fuel_dispenser/MultiFuelDispenserTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_fuel_dispenser/multi_fuel_dispenser/MultiFuelDispenserTest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000040326" />
+      <entry key="S5" value="1.0000695398750317" />
+      <entry key="S10" value="1.008339057202804" />
+      <entry key="S30" value="1.202788444135229" />
+      <entry key="S60" value="1.4518692975023617" />
+      <entry key="M2" value="1.768855068062018" />
+      <entry key="M5" value="4.860774035791124" />
+      <entry key="M10" value="14.118149202536552" />
+      <entry key="M15" value="23.600052607327957" />
+      <entry key="M30" value="48.3445892567652" />
+      <entry key="H1" value="84.71835594495255" />
+      <entry key="H2" value="127.37794401017923" />
+      <entry key="H4" value="164.55229729189446" />
+      <entry key="D1" value="210.5097116768054" />
+      <entry key="W1" value="220.30293661740586" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="5.436903321933827E-181" />
+      <entry key="S30" value="8.161760942693467E-61" />
+      <entry key="S60" value="9.034246478177363E-31" />
+      <entry key="M2" value="9.50489437629221E-16" />
+      <entry key="M5" value="9.859934816243115E-7" />
+      <entry key="M10" value="0.0010705846399571208" />
+      <entry key="M15" value="0.012058801297272864" />
+      <entry key="M30" value="0.17698515974085155" />
+      <entry key="H1" value="0.8943060992327319" />
+      <entry key="H2" value="2.2361430232573607" />
+      <entry key="H4" value="3.632566784584362" />
+      <entry key="D1" value="5.512555558056945" />
+      <entry key="W1" value="5.927657411733745" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.009226505167418202" />
+      <entry key="MS500" value="0.39174859347467034" />
+      <entry key="S2" value="0.7911373011952217" />
+      <entry key="S5" value="0.910583041643066" />
+      <entry key="S10" value="0.9605046021493473" />
+      <entry key="S30" value="1.1690051686938865" />
+      <entry key="S60" value="1.4232451054360151" />
+      <entry key="M2" value="1.7476013244769555" />
+      <entry key="M5" value="4.834776144513154" />
+      <entry key="M10" value="14.08455947268262" />
+      <entry key="M15" value="23.57578275968031" />
+      <entry key="M30" value="48.48789065626199" />
+      <entry key="H1" value="85.58550078672116" />
+      <entry key="H2" value="129.59496027763694" />
+      <entry key="H4" value="168.1730255507904" />
+      <entry key="D1" value="216.01984498548924" />
+      <entry key="W1" value="226.23023462347584" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KMPiEMKJ8URkxnaSCnNsuMcW68" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for dictionary.DictionaryTest.DictionaryTest.test_create_student.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in DictionaryTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Python tests for dictionary.DictionaryTest.DictionaryTest.test_create_student" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Dictionary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;dictionary.DictionaryTest.DictionaryTest.test_create_student&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for dictionary.DictionaryTest.DictionaryTest.test_create_student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69228b7d-7167-4210-b67e-090e0e3c397a" name="Changes" comment="" />
+      <created>1791364589447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791364589447</updated>
+      <workItem from="1791364590471" duration="15768000" />
+      <workItem from="1791843523913" duration="951000" />
+      <workItem from="1791889620013" duration="66000" />
+      <workItem from="1791895871676" duration="382000" />
+      <workItem from="1791897823022" duration="770000" />
+      <workItem from="1791905490878" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../dictionary/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dictionary$.coverage" NAME=" Coverage Results" MODIFIED="1791377759378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

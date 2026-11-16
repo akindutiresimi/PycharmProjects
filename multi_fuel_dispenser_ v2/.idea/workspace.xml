@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33698153-5ec9-49c0-8e33-e886a6d16d65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/Dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/.idea/multiFuelDispenserV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/multiFuelDispenser/FuelCatalog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/multiFuelDispenser/MultiFuelDispenser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/multiFuelDispenser/MultiFuelDispenserTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/multiFuelDispenser/Transaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/multiFuelDispenser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiFuelDispenserv2/multiFuelDispenser/fuel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WelcomeScreen/script1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../WelcomeScreen/script1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_fuel_dispenser/multi_fuel_dispenser/MultiFuelDispenser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_fuel_dispenser/multi_fuel_dispenser/MultiFuelDispenser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_fuel_dispenser/multi_fuel_dispenser/MultiFuelDispenserTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_fuel_dispenser/multi_fuel_dispenser/MultiFuelDispenserTest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000000001" />
+      <entry key="MS500" value="1.00101940279797" />
+      <entry key="S2" value="1.2380645624748061" />
+      <entry key="S5" value="1.9951600651262564" />
+      <entry key="S10" value="3.159592697573109" />
+      <entry key="S30" value="5.494330526128791" />
+      <entry key="S60" value="6.573786144388672" />
+      <entry key="M2" value="7.236687537813379" />
+      <entry key="M5" value="7.681616379468299" />
+      <entry key="M10" value="7.838542871153759" />
+      <entry key="M15" value="7.892195044759322" />
+      <entry key="M30" value="8.034748749567491" />
+      <entry key="H1" value="9.42760533784658" />
+      <entry key="H2" value="13.888088448220952" />
+      <entry key="H4" value="19.890879870080038" />
+      <entry key="D1" value="29.349049956836346" />
+      <entry key="W1" value="31.60202688962183" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="2.2861199578646883E-144" />
+      <entry key="S60" value="3.6059532420116286E-72" />
+      <entry key="M2" value="4.72341335854047E-36" />
+      <entry key="M5" value="2.5039156455739044E-14" />
+      <entry key="M10" value="4.769649741062414E-7" />
+      <entry key="M15" value="1.298703913218155E-4" />
+      <entry key="M30" value="0.03579371851239096" />
+      <entry key="H1" value="0.5972136636684687" />
+      <entry key="H2" value="2.4426833518235354" />
+      <entry key="H4" value="4.941782767020841" />
+      <entry key="D1" value="8.891471292442386" />
+      <entry key="W1" value="9.83355038221726" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6113201388460343" />
+      <entry key="MS500" value="0.9062926745576739" />
+      <entry key="S2" value="1.0961937977754372" />
+      <entry key="S5" value="1.7827123625712622" />
+      <entry key="S10" value="2.951891125171549" />
+      <entry key="S30" value="5.364755133921134" />
+      <entry key="S60" value="6.495644280113203" />
+      <entry key="M2" value="7.193563580511176" />
+      <entry key="M5" value="7.663284854397335" />
+      <entry key="M10" value="7.829187295879643" />
+      <entry key="M15" value="7.886043332076377" />
+      <entry key="M30" value="8.067209919006846" />
+      <entry key="H1" value="10.021764931707047" />
+      <entry key="H2" value="16.32693029629346" />
+      <entry key="H4" value="24.82915987508105" />
+      <entry key="D1" value="38.239518031804195" />
+      <entry key="W1" value="41.43541961717355" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KdfmAPs9yEIegZ19IVFHuu4bhl" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in MultiFuelDispenserTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33698153-5ec9-49c0-8e33-e886a6d16d65" name="Changes" comment="" />
+      <created>1791892522750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791892522750</updated>
+      <workItem from="1791892523806" duration="951000" />
+      <workItem from="1791895173478" duration="642000" />
+      <workItem from="1791906800558" duration="1747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../multiFuelDispenserv2/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/multi_fuel_dispenser__v2$.coverage" NAME=" Coverage Results" MODIFIED="1791908177183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
