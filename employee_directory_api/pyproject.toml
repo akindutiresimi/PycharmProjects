@@ -1,0 +1,33 @@
+[project]
+name = "employee-directory-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Akindutire Simi", email = "akindutiresimi@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "employee>=0.0.4",
+    "fastapi[standard]>=0.162.7",
+    "pydantic>=2.14.3",
+    "pymongo>=4.20.0",
+    "pymongo-amplidata>=3.6.0.post1",
+    "pytest>=9.2.0",
+    "routers>=0.1.2",
+    "status>=0.2.5",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[project.scripts]
+employee-directory-api = "employee_directory_api:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "httpx>=0.28.1",
+    "pytest>=9.2.0",
+]
